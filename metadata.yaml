@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25226
     wikipedia: http://en.wikipedia.org/wiki/Jeanne_Marie_Bouvier_de_la_Motte_Guyon
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22269#The-Autobiography-of-Madame-Guyon
 gutenberg_bookshelf: United Kingdom
 gutenberg_issued: '2007-08-08'
 gutenberg_type: Text
